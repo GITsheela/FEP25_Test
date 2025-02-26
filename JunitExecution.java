@@ -9,7 +9,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class JunitExecution {
-	
+	//string
 	@BeforeClass
 	public static void beforeclass() {
 		System.out.println("before class");
